@@ -1,5 +1,4 @@
-# student-management-system-java-jdbc
-# Student Management System (Java + Oracle JDBC)
+## Student Management System (Java + Oracle JDBC)
 
 ## Overview
 This is a console-based Student Management System developed using Java.
